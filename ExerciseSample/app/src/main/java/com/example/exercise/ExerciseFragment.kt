@@ -207,7 +207,7 @@ class ExerciseFragment : Fragment() {
 
     data class TokenContainer(val token:String)
     private fun login(){
-        var username="admin@gmail.com";
+        var username="admin";
         var password="hashed";
         val gson = Gson()
         val jsonPayload = gson.toJson(User(username, password));
