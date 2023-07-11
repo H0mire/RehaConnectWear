@@ -1,6 +1,6 @@
-# Exercise Sample
+# RehaConnect
 
-This sample demonstrates managing an exercise experience using the `ExerciseClient` API.
+The Smartwatch app for the RehaConnect System
 
 ### Running the sample
 
