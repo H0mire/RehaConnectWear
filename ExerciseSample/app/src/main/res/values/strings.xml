@@ -16,7 +16,7 @@
   -->
 
 <resources>
-    <string name="app_name">Exercise Sample</string>
+    <string name="app_name">Reha Connect</string>
     <string name="measure_status">Status: %1$s</string>
     <string name="last_measured">Last measured:</string>
     <string name="starting_up">Starting up</string>
